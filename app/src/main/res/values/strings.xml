@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TFLiteAndriodDemo</string>
+    <string name="实时预测">实时预测</string>
+    <string name="todo">TODO</string>
+</resources>
